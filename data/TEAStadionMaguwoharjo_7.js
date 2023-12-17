@@ -1,0 +1,1 @@
+var json_TEAStadionMaguwoharjo_7 = {"type":"FeatureCollection","name":"TEAStadionMaguwoharjo_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Kecamatan":"Depok","TEA":"Stadion Maguwoharjo Sleman"},"geometry":{"type":"Point","coordinates":[110.417965388174366,-7.750011167656997]}}]}
